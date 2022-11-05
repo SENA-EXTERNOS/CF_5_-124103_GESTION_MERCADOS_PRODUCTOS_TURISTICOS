@@ -3,15 +3,14 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p En la siguiente imagen verá la manera en la que se relacionan todos los temas del presente componente formativo. Es de resaltar que el marco estratégico cuenta con cinco componentes (misión, visión, valores corporativos, objetivos organizacionales, metas organizacionales), y que traza la ruta estratégica construida a partir de las estrategias en el BSC (#[i Balance scorecard]), las cuales, a su vez, se derivan del diagnóstico que se realiza con el apoyo de instrumentos o matrices (COFA, MEFE, MEFI, MOE). Además, las estrategias también permiten tener en cuenta en la ruta estratégica los acuerdos comerciales de integración que los prestadores de servicios turísticos o entes gubernamentales pueden llegar a formar para beneficio de la empresa. 
 
-    .row.justify-content-center
+    .row.justify-content-center.my-5
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
