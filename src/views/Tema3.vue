@@ -34,7 +34,7 @@
 
     .row.justify-content-center
       .col-lg-10
-        .bloque-texto-g.color-secundario.p-4
+        .bloque-texto-g2.color-secundario.p-4
           .bloque-texto-g2__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img2.png')})`}"
           )
