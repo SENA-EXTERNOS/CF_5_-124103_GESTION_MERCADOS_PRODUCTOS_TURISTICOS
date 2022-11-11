@@ -17,7 +17,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1.png')})`}"
           )(data-aos="fade-left")
           .bloque-texto-g1__texto.p-4(data-aos="fade-right")
-            p.mb-0 Para las empresas, en la actualidad es imprescindible orientarse hacia el futuro. Para ello, es preciso analizar dónde la organización desea incidir, haciendo hincapié en el despliegue de la misión, visión, objetivos estratégicos, principios, valores y propósitos. Esto se refleja en planes, programas y proyectos, lo que se logra a través de estructurar la ruta para la consecución de objetivos y metas con pensamiento estratégico, base fundamental para lograr posicionamiento en el mercado (Aldean et al., 2019, p. 6).
+            p.mb-0 Para las empresas, en la actualidad es imprescindible orientarse hacia el futuro. Para ello, es preciso analizar dónde la organización desea incidir, haciendo hincapié en el despliegue de la misión, visión, objetivos estratégicos, principios, valores y propósitos. Esto se refleja en planes, programas y proyectos, lo que se logra a través de estructurar la ruta para la consecución de objetivos y metas con pensamiento estratégico, base fundamental para lograr posicionamiento en el mercado (Aldean #[i et al]., 2019, p. 6).
 
     .row.justify-content-center.my-5
       .tarjeta.slyderA_bg_01.p-5
@@ -75,7 +75,7 @@
             p Un referente importante en el mundo turístico tiene como misión “conducir el negocio de manera ética y fomentar la felicidad y el bienestar de los niños y las familias, inspirándolos a unirse a la compañía en la labor de forjar un futuro mejor.” (Disney, 2017). 
 
           .row(titulo="Visión:")
-            p “La visión describe la posición futura deseada de la empresa, expresa las aspiraciones, en lo que se quiere convertir” (Obregón Zúñiga, 2021, p. 1).  La visión constituye el corazón del marco estratégico, toda vez que señala el hacia dónde ir, por lo tanto, cada palabra de este texto tiene influencia directa dentro de las acciones a realizar en un periodo de tiempo determinado. Es radicalmente importante comprender la utilidad de la formulación de una visión que represente el sentir y querer profundo de los fundadores y propietarios de la organización.  La visión se puede formular respondiendo las siguientes preguntas: ¿cómo nos queremos ver en el futuro?, ¿en qué nos queremos convertir como empresa?, y ¿en cuánto tiempo podremos lograrlo?
+            p “La visión describe la posición futura deseada de la empresa, expresa las aspiraciones, en lo que se quiere convertir” (Obregón Zúñiga, 2021, p. 1).  La visión constituye el corazón del marco estratégico, toda vez que señala el #[i hacia dónde ir], por lo tanto, cada palabra de este texto tiene influencia directa dentro de las acciones a realizar en un periodo de tiempo determinado. Es radicalmente importante comprender la utilidad de la formulación de una visión que represente el sentir y querer profundo de los fundadores y propietarios de la organización.  La visión se puede formular respondiendo las siguientes preguntas: ¿cómo nos queremos ver en el futuro?, ¿en qué nos queremos convertir como empresa?, y ¿en cuánto tiempo podremos lograrlo?
             p A modo de ejemplo, se tiene que la visión de la asociación hotelera más grande en Colombia es: “Para el año 2022, la Asociación Hotelera y Turística de Colombia, articulada a través de una política nacional, seguirá siendo el gremio más representativo de la industria turística del país, reconocido por desarrollar estrategias efectivas que habrán fortalecido la productividad, competitividad e internacionalización de la industria hotelera, y por su liderazgo nacional y regional en el análisis sectorial e incidencia en políticas públicas que contribuyan al posicionamiento del turismo como uno de los sectores más importantes de la economía nacional.” (COTELCO, 2018).
           
           .row(titulo="Valores corporativos:")
@@ -117,7 +117,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img5.png", alt="alt")(data-aos="fade-right")
             .col-lg-10
-              p.mt-3 Es importante tener en cuenta también que el marco estratégico está conformado por algunos componentes fundamentales, los cuales se presentan a continuación.
+              p.mt-3 #[i El balance scorecard] es una herramienta que permite organizar las actividades a realizar, exponiendo una estrategia en grupo de métricas de realización. En las organizaciones competitivas es imperioso diseñar un sistema de control de gestión a medida, identificado como un cuadro de mando integral que ha evolucionado para convertirse en un sistema de gestión estratégico.
 
     .row.justify-content-center.my-5
       .col-lg-8
@@ -134,7 +134,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema1/img7.png', alt="alt")(data-aos="fade-right")  
                 .col-lg-7
-                  p “Se sustenta en cuatro perspectivas, englobando los objetivos para un correcto funcionamiento con indicadores financieros y no financieros articulados con la visión y la estrategia.” (Aldean et al., 2019, p. 10)
+                  p “Se sustenta en cuatro perspectivas, englobando los objetivos para un correcto funcionamiento con indicadores financieros y no financieros articulados con la visión y la estrategia.” (Aldean #[i et al]., 2019, p. 10)
 
             .cajon.tarjeta--rosa2.p-4
               .row
@@ -142,7 +142,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema1/img8.png', alt="alt")(data-aos="fade-right")  
                 .col-lg-7
-                  p Es una herramienta para movilizar a la gente, expone la estrategia en un grupo de métricas de realización, suministrando información valiosa a la organización para un proceso de gestión y medición. Exterioriza los resultados y comprende la razón de esos logros, congregados en cuatro categorías: financiera, clientes, procesos internos y formación y crecimiento o aprendizaje. No es imprescindible que estén todas ellas, estas perspectivas son las más generales y pueden adecuarse a la mayoría de las empresas, toda vez que no constituye una condición indispensable para construir un modelo de negocio (Guerrero,  2010, citado en Aldean et al., 2019, p. 10).
+                  p Es una herramienta para movilizar a la gente, expone la estrategia en un grupo de métricas de realización, suministrando información valiosa a la organización para un proceso de gestión y medición. Exterioriza los resultados y comprende la razón de esos logros, congregados en cuatro categorías: financiera, clientes, procesos internos y formación y crecimiento o aprendizaje. No es imprescindible que estén todas ellas, estas perspectivas son las más generales y pueden adecuarse a la mayoría de las empresas, toda vez que no constituye una condición indispensable para construir un modelo de negocio (Guerrero,  2010, citado en Aldean #[i et al]., 2019, p. 10).
 
             .cajon.tarjeta--rosa1.p-4
               .row

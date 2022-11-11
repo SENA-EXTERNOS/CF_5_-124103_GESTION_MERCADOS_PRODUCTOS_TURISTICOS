@@ -16,7 +16,7 @@
             p se realiza en las empresas, para saber evaluar la situación de la organización, lo cual incluye el análisis dentro y fuera de ella, es decir interno y externo. El éxito de las organizaciones resulta de la ejecución de estrategias adecuadas y así evitar gastar tiempo, recursos en estrategias innecesarias para su sector de mercado.
             i.fas.fa-quote-right
             br  
-            p (Arrieta et al., 2021, p. 1).
+            p (Arrieta #[i et al]., 2021, p. 1).
            
       .col-lg-5
         figure
@@ -57,11 +57,10 @@
         SlyderA(tipo="b")
           .row
             .col-md-7.mb-4.mb-md-0
-              p Para elaborar una matriz DOFA se deben seguir los siguientes pasos:
               ol.lista-ol
                 li 
                   span.text-bold 1. 
-                  | Disponer de los materiales necesarios para la participación del equipo de trabajo (espacio iluminado y silencioso, cartelera con la matriz DOFA en blanco y en tamaño grande que todos puedan verla, post-its de colores, marcadores y lapiceros).
+                  | Disponer de los materiales necesarios para la participación del equipo de trabajo (espacio iluminado y silencioso, cartelera con la matriz DOFA en blanco y en tamaño grande que todos puedan verla, #[i post-its] de colores, marcadores y lapiceros).
                 li 
                   span.text-bold 2. 
                   | Reunir al equipo de trabajo con el que se quiere realizar el diagnóstico. En muchas organizaciones esta labor es realizada por el comité directivo, que normalmente está compuesto por la junta directiva, el gerente y los ejecutivos líderes de los diferentes departamentos.
@@ -92,16 +91,16 @@
                 ul.lista-ul.ps-4.mt-2
                   li
                     i.fas.fa-check
-                    | Saber hacia dónde se quiere ir. 
+                    | Profesionalismo del equipo de trabajo. 
                   li
                     i.fas.fa-check
-                    | Enfocar los esfuerzos de todos los equipos de trabajo hacia el mismo lado.
+                    | Ubicación estratégica.
                   li
                     i.fas.fa-check
-                    | Trabajar sobre planes, programas y proyectos estructurados.
+                    | Reconocimiento nacional del producto o servicio.
                   li
                     i.fas.fa-check
-                    | Tener la trazabilidad de las estrategias implementadas y su efectividad en el mercado de la organización. 
+                    | Agilidad en la labor comercial.
 
             .col-md-5
               figure
@@ -297,7 +296,7 @@
       h2 3.3 Matriz MEFI
 
     .row.my-5
-      p Para realizar la MEFI es necesario ser objetivos con la autoevaluación que se está realizando, identificar los factores importantes, teniendo en cuenta la actividad operativa que se desarrolla a diario, y asumir una posición crítica que realmente permita reconocer las debilidades para buscar un equilibrio interno. (Riverol et al., 2019, p.15).
+      p Para realizar la MEFI es necesario ser objetivos con la autoevaluación que se está realizando, identificar los factores importantes, teniendo en cuenta la actividad operativa que se desarrolla a diario, y asumir una posición crítica que realmente permita reconocer las debilidades para buscar un equilibrio interno. (Riverol #[i et al]., 2019, p.15).
 
     .row.justify-content-center.my-5
       .col-lg-10(data-aos="zoom-in")
@@ -337,7 +336,7 @@
 
           div(x="78%" y="47%" numero="+")
             h4 Se suman los valores resultantes
-            p Se suman los valores resultantes de la multiplicación anterior y este es el resultado total de la matriz. Al finalizar de diligenciar la matriz se procede a realizar un análisis, teniendo en cuenta que el valor ponderado promedio es de 2.5 y que los puntajes con valor muy por debajo del promedio caracterizan a las empresas que son débiles internamente, mientras que los puntajes más altos indican una posición interna fuerte  (Pibaque-Pionce et al., 2020, p. 21).
+            p Se suman los valores resultantes de la multiplicación anterior y este es el resultado total de la matriz. Al finalizar de diligenciar la matriz se procede a realizar un análisis, teniendo en cuenta que el valor ponderado promedio es de 2.5 y que los puntajes con valor muy por debajo del promedio caracterizan a las empresas que son débiles internamente, mientras que los puntajes más altos indican una posición interna fuerte  (Pibaque-Pionce #[i et al]., 2020, p. 21).
 
     .row.justify-content-center
       .col-lg-10(data-aos="flip-down")
