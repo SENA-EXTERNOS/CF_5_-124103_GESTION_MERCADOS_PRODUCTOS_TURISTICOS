@@ -16,7 +16,7 @@
             p se realiza en las empresas, para saber evaluar la situación de la organización, lo cual incluye el análisis dentro y fuera de ella, es decir interno y externo. El éxito de las organizaciones resulta de la ejecución de estrategias adecuadas y así evitar gastar tiempo, recursos en estrategias innecesarias para su sector de mercado.
             i.fas.fa-quote-right
             br  
-            p (Arrieta #[i et al]., 2021, p. 1).
+            p (Arrieta #[em et al]., 2021, p. 1).
            
       .col-lg-5
         figure
@@ -60,7 +60,7 @@
               ol.lista-ol
                 li 
                   span.text-bold 1. 
-                  | Disponer de los materiales necesarios para la participación del equipo de trabajo (espacio iluminado y silencioso, cartelera con la matriz DOFA en blanco y en tamaño grande que todos puedan verla, #[i post-its] de colores, marcadores y lapiceros).
+                  | Disponer de los materiales necesarios para la participación del equipo de trabajo (espacio iluminado y silencioso, cartelera con la matriz DOFA en blanco y en tamaño grande que todos puedan verla, post-its de colores, marcadores y lapiceros).
                 li 
                   span.text-bold 2. 
                   | Reunir al equipo de trabajo con el que se quiere realizar el diagnóstico. En muchas organizaciones esta labor es realizada por el comité directivo, que normalmente está compuesto por la junta directiva, el gerente y los ejecutivos líderes de los diferentes departamentos.
