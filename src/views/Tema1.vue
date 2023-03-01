@@ -7,9 +7,6 @@
         span 1
       h1 Marco estratégico 
 
-    .row.my-5
-      p Para ampliar la información descrita anteriormente, lo invitamos a ver la siguiente información.
-
     .row.justify-content-center.my-5
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
@@ -71,8 +68,10 @@
         
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Misión:")
-            p La misión es la declaración de la razón de ser de la empresa, es decir, el propósito con el que se creó. Se expresa en un párrafo o enunciado que responde las siguientes preguntas: ¿Quiénes somos?, ¿a qué nos dedicamos?, ¿Cómo lo hacemos?, ¿en qué somos distintos de nuestra competencia? (Obregón Zúñiga, 2021, p. 1). 
+            p La misión es la declaración de la razón de ser de la empresa, es decir, el propósito con el que se creó. Se expresa en un párrafo o enunciado que responde las siguientes preguntas: ¿quiénes somos?, ¿a qué nos dedicamos?, ¿cómo lo hacemos?, ¿en qué somos distintos de nuestra competencia? (Obregón Zúñiga, 2021, p. 1). 
+
             p Un referente importante en el mundo turístico tiene como misión “conducir el negocio de manera ética y fomentar la felicidad y el bienestar de los niños y las familias, inspirándolos a unirse a la compañía en la labor de forjar un futuro mejor.” (Disney, 2017). 
+
 
           .row(titulo="Visión:")
             p “La visión describe la posición futura deseada de la empresa, expresa las aspiraciones, en lo que se quiere convertir” (Obregón Zúñiga, 2021, p. 1).  La visión constituye el corazón del marco estratégico, toda vez que señala el #[i hacia dónde ir], por lo tanto, cada palabra de este texto tiene influencia directa dentro de las acciones a realizar en un periodo de tiempo determinado. Es radicalmente importante comprender la utilidad de la formulación de una visión que represente el sentir y querer profundo de los fundadores y propietarios de la organización.  La visión se puede formular respondiendo las siguientes preguntas: ¿cómo nos queremos ver en el futuro?, ¿en qué nos queremos convertir como empresa?, y ¿en cuánto tiempo podremos lograrlo?
@@ -155,9 +154,6 @@
           .col-lg-2(data-aos="fade-left")
             figure
               img(src='@/assets/curso/temas/tema1/img10.png', alt="alt").img10-t1
-
-    .row.my-5
-      p Ahora que se conoce el marco estratégico del entorno turístico, es necesario ampliar la información sobre los acuerdos comerciales.
 
 
       

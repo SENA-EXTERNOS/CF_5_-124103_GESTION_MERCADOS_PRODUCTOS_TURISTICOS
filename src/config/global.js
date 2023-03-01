@@ -41,32 +41,6 @@ export default {
         numero: '3',
         titulo: 'Análisis estratégico',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Matriz DOFA',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Matriz MEFE ',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Matriz MEFI',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Matriz MOE ',
-            hash: 't_3_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -208,22 +182,22 @@ export default {
     },
     {
       referencia:
-        'Publicación digital | Arrieta,  V., Cervantes,  Y., De la Cruz,  L.  & López,  D.  (2021).  La importancia del diagnóstico estratégico en las organizaciones.  Económicas CUC, 42(2), 243-254. DOI: ',
+        'Arrieta, V., Cervantes,  Y., De la Cruz,  L.  & López, D.  (2021).  <i>La importancia del diagnóstico estratégico en las organizaciones</i>.  Económicas CUC, 42(2), 243–254. DOI:',
       link: 'https://doi.org/10.17981/econcuc.42.2.2021',
     },
     {
       referencia:
-        'Libro | Avendaño Cárdenas, E., Henao Pérez, A., & Puente Pacheco, M. (2022). Inteligencia de mercados: Una visión integral e interdisciplinaria para la internacionalización de las Pymes. Universidad del Norte. ',
+        'Avendaño Cárdenas, E., Henao Pérez, A., & Puente Pacheco, M. (2022). <i>Inteligencia de mercados: Una visión integral e interdisciplinaria para la internacionalización de las Pymes</i>. Universidad del Norte. ',
       link: 'https://www-digitaliapublishing-com.ezproxy.utp.edu.co/a/115401',
     },
     {
       referencia:
-        'Página web oficial | COTELCO. (2018). Quiénes somos COTELCO. Recuperado de: ',
+        'COTELCO. (2018). <i>Quiénes somos COTELCO</i>. Recuperado de:',
       link: 'https://www.cotelco.org/quienes-somos',
     },
     {
       referencia:
-        'Artículo revista digital | Delgado, J. E. (2020). La integración vertical empresarial, una visión estratégica: Caso Apple Inc. Tekhné, 23(3).',
+        'Delgado, J. E. (2020). <i>La integración vertical empresarial, una visión estratégica: Caso Apple Inc</i>. Tekhné, 23(3).',
       link: '',
     },
     {
@@ -233,17 +207,17 @@ export default {
     },
     {
       referencia:
-        'Publicación digital | Obregón Zúñiga, D. L. (2021). Misión, visión y valores. Guadalajara, Jalisco, México: Universidad de Guadalajara, Sistema de Universidad Virtual. 839. Misión, visión y valores_MGAAV_PDF (udg.mx)',
+        'Obregón Zúñiga, D. L. (2021). <i>Misión, visión y valores</i>. Guadalajara, Jalisco, México: Universidad de Guadalajara, Sistema de Universidad Virtual. 839. Misión, visión y valores_MGAAV_PDF (udg.mx)',
       link: '',
     },
     {
       referencia:
-        'Artículo revista digital | Pibaque-Pionce, M. S., Álvarez-Indacochea , A. A., & Soledispa- Reyes , S. G. (2020). La importancia de la aplicación de matrices de la planificación estratégica en el sector microempresa de las bibliotecas-cafeterías. Revista Científica FIPCAEC (Fomento De La investigación Y publicación En Ciencias Administrativas, Económicas Y Contables). ISSN: 2588-090X . Polo De Capacitación, Investigación Y Publicación (POCAIP), 5(5), 22-44. ',
+        'Pibaque-Pionce, M. S., Álvarez-Indacochea , A. A., & Soledispa- Reyes , S. G. (2020). <i>La importancia de la aplicación de matrices de la planificación estratégica en el sector microempresa de las bibliotecas-cafeterías</i>. Revista Científica FIPCAEC (Fomento De La investigación Y publicación En Ciencias Administrativas, Económicas Y Contables). ISSN: 2588-090X . Polo De Capacitación, Investigación Y Publicación (POCAIP), 5(5), 22-44.',
       link: 'https://doi.org/10.23857/fipcaec.v5i5.27',
     },
     {
       referencia:
-        'Documento oficial | Riverol, Vásquez. M., Parada, Salomón. A. y Rodríguez, Gómez. A. (2019). GUÍA PARA LA ELABORACIÓN DEL ANÁLISIS DE FORTALEZAS, OPORTUNIDADES, DEBILIDADES Y AMENAZAS (FODA). Contraloría municipal de Puebla.  Art77_fI_GuiaAnalisisFODA_05.09.19.pdf (pueblacapital.gob.mx)',
+        'Riverol, Vásquez. M., Parada, Salomón. A. y Rodríguez, Gómez. A. (2019). <i>GUÍA PARA LA ELABORACIÓN DEL ANÁLISIS DE FORTALEZAS, OPORTUNIDADES, DEBILIDADES Y AMENAZAS (FODA)</i>. Contraloría municipal de Puebla.  Art77_fI_GuiaAnalisisFODA_05.09.19.pdf (pueblacapital.gob.mx)',
       link: '',
     },
     {

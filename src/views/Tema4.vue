@@ -18,8 +18,10 @@
         figure
           img(src='@/assets/curso/temas/tema4/img1.png', alt="alt")  
 
-    .row.my-3
-      p De acuerdo con lo anterior, a continuación se presenta la síntesis de este componente formativo.
+    .row.my-3.justify-content-center
+      .col-lg-10
+        .cajon.color-primario.px-4.py-3.my-3
+          p Aprendiz, ha culminado de manera satisfactoria el estudio de los temas de este componente formativo, lo invitamos a revisar todos los recursos que se encuentran en el menú para que afiance sus conocimientos.
 
 
 

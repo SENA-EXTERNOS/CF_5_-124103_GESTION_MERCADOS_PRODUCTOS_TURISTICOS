@@ -13,10 +13,9 @@
         .bloque-texto-b.color-verde
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p se realiza en las empresas, para saber evaluar la situación de la organización, lo cual incluye el análisis dentro y fuera de ella, es decir interno y externo. El éxito de las organizaciones resulta de la ejecución de estrategias adecuadas y así evitar gastar tiempo, recursos en estrategias innecesarias para su sector de mercado.
+            p Se realiza en las empresas, para saber evaluar la situación de la organización, lo cual incluye el análisis dentro y fuera de ella, es decir interno y externo. El éxito de las organizaciones resulta de la ejecución de estrategias adecuadas y así evitar gastar tiempo, recursos en estrategias innecesarias para su sector de mercado.” (Arrieta et al., 2021, p. 1).
             i.fas.fa-quote-right
-            br  
-            p (Arrieta #[em et al]., 2021, p. 1).
+            
            
       .col-lg-5
         figure
@@ -25,12 +24,8 @@
     .row.my-5
       p Para la realización de un diagnóstico estratégico se pueden utilizar diferentes herramientas, a continuación, se desarrollarán las matrices que facilitan el análisis interno y externo de la organización, y los cuatro tipos de matrices: Matriz DOFA, Matriz MEFI, Matriz MEFE y Matriz MOE.
 
-    separador
-
-    #t_3_1
-
-    .titulo-segundo.color-acento-contenido.my-5
-      h2 3.1 Matriz DOFA 
+    .row.mt-5
+      h3 Matriz DOFA 
 
     .row.justify-content-center
       .col-lg-10
@@ -49,8 +44,6 @@
         figure
           img(src="@/assets/curso/temas/tema3/img3.png", alt="alt")(data-aos="fade-up")         
 
-    .row.my-5
-      p Para elaborar una matriz DOFA se deben seguir los siguientes pasos:
 
     .row.justify-content-center.my-5
       .tarjeta.slyderA_bg_01.p-5
@@ -229,11 +222,11 @@
               ul.lista-ul.ps-3
                 li
                   i.fas.fa-square
-                  | CÓMO se logra lo que queremos, es decir, la manera en la que se elige llevar a cabo el progreso.
+                  | Como se logra lo que queremos, es decir, la manera en la que se elige llevar a cabo el progreso.
                 li
                   i.fas.fa-square
-                  | Las acciones que se emprenden para lograr un objetivo. En este caso los objetivos son:
-
+                  | Las acciones que se emprenden para lograr un objetivo. En este caso los objetivos son: 
+                  
                 ul.lista-ul.ps-4.mt-2
                   li
                     i.fas.fa-check
@@ -258,19 +251,15 @@
     .row.justify-content-center.my-5
       .col-lg-10(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema3/img10.png', alt="alt")        
+          img(src='@/assets/curso/temas/tema3/img10.svg', alt="alt")        
 
     .row.justify-content-center.my-5
       .col-lg-10(data-aos="fade-left")
         .cajon.color-acento-contenido.p-4
           p La matriz DOFA da paso a las siguientes matrices: la MEFE y la MEFI, que se realizan con base en las estrategias planteadas en la DOFA, permitiendo analizar la efectividad de estas y su impacto.
 
-    separador
-
-    #t_3_2
-
-    .titulo-segundo.color-acento-contenido.my-5
-      h2 3.2 Matriz MEFE 
+    .row.mt-5
+      h3 Matriz MEFE 
 
     .row.justify-content-center.my-5
       .col-lg-7(data-aos="fade-right")
@@ -288,12 +277,8 @@
     .row.my-5
       p Vea ahora la información sobre la Matriz de Evaluación de Factores Internos (MEFI), que constituye un instrumento que nos permite realizar una evaluación interna de la empresa para facilitar el análisis de la efectividad de las estrategias aplicadas, y conocer con detalle su impacto, evaluando las fortalezas y debilidades más relevantes para formular estrategias capaces de solventar, optimizar y reforzar los procesos internos ejecutados.
 
-    separador
-
-    #t_3_3
-
-    .titulo-segundo.color-acento-contenido.my-5
-      h2 3.3 Matriz MEFI
+    .row.mt-5
+      h3 Matriz MEFI
 
     .row.my-5
       p Para realizar la MEFI es necesario ser objetivos con la autoevaluación que se está realizando, identificar los factores importantes, teniendo en cuenta la actividad operativa que se desarrolla a diario, y asumir una posición crítica que realmente permita reconocer las debilidades para buscar un equilibrio interno. (Riverol #[i et al]., 2019, p.15).
@@ -338,6 +323,10 @@
             h4 Se suman los valores resultantes
             p Se suman los valores resultantes de la multiplicación anterior y este es el resultado total de la matriz. Al finalizar de diligenciar la matriz se procede a realizar un análisis, teniendo en cuenta que el valor ponderado promedio es de 2.5 y que los puntajes con valor muy por debajo del promedio caracterizan a las empresas que son débiles internamente, mientras que los puntajes más altos indican una posición interna fuerte  (Pibaque-Pionce #[i et al]., 2020, p. 21).
 
+
+    .row.mt-5
+      h3 Matriz MOE 
+
     .row.justify-content-center
       .col-lg-10(data-aos="flip-down")
         .bloque-texto-g.color-acento-contenido.p-4
@@ -346,13 +335,7 @@
           )
           .bloque-texto-g3__texto.p-3
             p En cuanto a la matriz MOE, también conocida como matriz de la planificación estratégica, es aquella que a partir de las estrategias planteadas en la matriz DOFA, ayuda a establecer la prioridad de ejecución de estas, asignándoles valores a cada una de las diversas estrategias. Para ilustrarse, observe la siguiente infografía.
-
-    separador
-
-    #t_3_4
-
-    .titulo-segundo.color-acento-contenido.my-5
-      h2 3.4 Matriz MOE 
+            
 
     .row.my-5
       p Con base en el análisis derivado de la matriz MOE se establecen e identifican las estrategias en orden de importancia y prioridad.
