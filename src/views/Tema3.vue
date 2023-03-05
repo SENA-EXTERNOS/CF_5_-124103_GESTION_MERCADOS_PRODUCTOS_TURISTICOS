@@ -13,7 +13,7 @@
         .bloque-texto-b.color-verde
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p Se realiza en las empresas, para saber evaluar la situación de la organización, lo cual incluye el análisis dentro y fuera de ella, es decir interno y externo. El éxito de las organizaciones resulta de la ejecución de estrategias adecuadas y así evitar gastar tiempo, recursos en estrategias innecesarias para su sector de mercado.” (Arrieta et al., 2021, p. 1).
+            p “Se realiza en las empresas, para saber evaluar la situación de la organización, lo cual incluye el análisis dentro y fuera de ella, es decir interno y externo. El éxito de las organizaciones resulta de la ejecución de estrategias adecuadas y así evitar gastar tiempo, recursos en estrategias innecesarias para su sector de mercado” (Arrieta et al., 2021, p. 1).
             i.fas.fa-quote-right
             
            
@@ -53,7 +53,7 @@
               ol.lista-ol
                 li 
                   span.text-bold 1. 
-                  | Disponer de los materiales necesarios para la participación del equipo de trabajo (espacio iluminado y silencioso, cartelera con la matriz DOFA en blanco y en tamaño grande que todos puedan verla, post-its de colores, marcadores y lapiceros).
+                  | Disponer de los materiales necesarios para la participación del equipo de trabajo (espacio iluminado y silencioso, cartelera con la matriz DOFA en blanco y en tamaño grande que todos puedan verla, <em>post-its</em> de colores, marcadores y lapiceros).
                 li 
                   span.text-bold 2. 
                   | Reunir al equipo de trabajo con el que se quiere realizar el diagnóstico. En muchas organizaciones esta labor es realizada por el comité directivo, que normalmente está compuesto por la junta directiva, el gerente y los ejecutivos líderes de los diferentes departamentos.
@@ -222,7 +222,7 @@
               ul.lista-ul.ps-3
                 li
                   i.fas.fa-square
-                  | Como se logra lo que queremos, es decir, la manera en la que se elige llevar a cabo el progreso.
+                  | Cómo se logra lo que queremos, es decir, la manera en la que se elige llevar a cabo el progreso.
                 li
                   i.fas.fa-square
                   | Las acciones que se emprenden para lograr un objetivo. En este caso los objetivos son: 
@@ -230,16 +230,16 @@
                 ul.lista-ul.ps-4.mt-2
                   li
                     i.fas.fa-check
-                    | FO (fortaleza y oportunidad): Aprovechar las oportunidades a través de las fortalezas de la organización.
+                    | FO (fortaleza y oportunidad): aprovechar las oportunidades a través de las fortalezas de la organización.
                   li
                     i.fas.fa-check
-                    | DO (debilidad y oportunidad): Aprovechar las oportunidades que se presentan para mitigar las debilidades con las que se cuenta.
+                    | DO (debilidad y oportunidad): aprovechar las oportunidades que se presentan para mitigar las debilidades con las que se cuenta.
                   li
                     i.fas.fa-check
-                    | FA (fortaleza y amenaza): Hacer uso de las fortalezas para darle manejo a las amenazas que se presentan.
+                    | FA (fortaleza y amenaza): hacer uso de las fortalezas para darle manejo a las amenazas que se presentan.
                   li
                     i.fas.fa-check
-                    | DA (Debilidad y amenaza): Trabajar en las debilidades de la organización al mismo tiempo en que se manejan las amenazas que se presentan.
+                    | DA (Debilidad y amenaza): trabajar en las debilidades de la organización al mismo tiempo en que se manejan las amenazas que se presentan.
 
             .col-md-5
               figure

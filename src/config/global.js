@@ -177,13 +177,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Artículo revista digital | Aldean, V. F. O., Chacán, M. Y. S., & Moreta, E. R. M. 2019. <i>Direccionamiento Estratégico Con Cuadro De Mando Integral Para Firmas Auditoras - Strategic Direction with Balanced Scorecard for Audit Firms. Journal of Software Engineering and Simulation</i>, 5(1), 1-15.',
+        'Artículo revista digital | Aldean, V. F. O. et al. (2019). Direccionamiento Estratégico Con Cuadro De Mando Integral Para Firmas Auditoras - Strategic Direction with Balanced Scorecard for Audit Firms. <i>Journal of Software Engineering and Simulation, 5(1)</i>, 1-15.',
       link: '',
     },
     {
       referencia:
-        'Arrieta, V., Cervantes,  Y., De la Cruz,  L.  & López, D.  (2021).  <i>La importancia del diagnóstico estratégico en las organizaciones</i>.  Económicas CUC, 42(2), 243–254. DOI:',
-      link: 'https://doi.org/10.17981/econcuc.42.2.2021',
+        'Arrieta, V. et al. (2021). La importancia del diagnóstico estratégico en las organizaciones.  <em>Económicas CUC, 42(2)</em>, 243–254.',
+      link: '',
     },
     {
       referencia:
@@ -197,12 +197,12 @@ export default {
     },
     {
       referencia:
-        'Delgado, J. E. (2020). <i>La integración vertical empresarial, una visión estratégica: Caso Apple Inc</i>. Tekhné, 23(3).',
+        'Delgado, J. E. (2020). La integración vertical empresarial, una visión estratégica: Caso Apple Inc. <em>Tekhné, 23(3)</em>.',
       link: '',
     },
     {
       referencia:
-        'Página web oficial. | DISNEY, D. L. A. (2017). Disney y el arte del servicio al cliente.',
+        'Página web oficial. | DISNEY, D. L. A. (2017). <em>Disney y el arte del servicio al cliente.</em>',
       link: '',
     },
     {
@@ -212,8 +212,8 @@ export default {
     },
     {
       referencia:
-        'Pibaque-Pionce, M. S., Álvarez-Indacochea , A. A., & Soledispa- Reyes , S. G. (2020). <i>La importancia de la aplicación de matrices de la planificación estratégica en el sector microempresa de las bibliotecas-cafeterías</i>. Revista Científica FIPCAEC (Fomento De La investigación Y publicación En Ciencias Administrativas, Económicas Y Contables). ISSN: 2588-090X . Polo De Capacitación, Investigación Y Publicación (POCAIP), 5(5), 22-44.',
-      link: 'https://doi.org/10.23857/fipcaec.v5i5.27',
+        'Pibaque-Pionce, M. S., Álvarez-Indacochea , A. A., & Soledispa- Reyes , S. G. (2020). La importancia de la aplicación de matrices de la planificación estratégica en el sector microempresa de las bibliotecas-cafeterías. <em>Revista Científica FIPCAEC (Fomento De La investigación Y publicación En Ciencias Administrativas, Económicas Y Contables). ISSN: 2588-090X . Polo De Capacitación, Investigación Y Publicación (POCAIP), 5(5)</em>, 22-44.',
+      link: '',
     },
     {
       referencia:
