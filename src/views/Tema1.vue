@@ -83,7 +83,7 @@
             ul.lista-ul
               li
                 i.fas.fa-square
-                p #[strong Creatividad e innovación:] generamos contenidos y herramientas para padres, niños y educadores para promover la seguridad online de niños, y el uso positivo de la tecnología.   
+                p #[strong Creatividad e innovación:] generamos contenidos y herramientas para padres, niños y educadores para promover la seguridad <i>online</i> de niños, y el uso positivo de la tecnología.   
               li
                 i.fas.fa-square
                 p #[strong Vida saludable:] inspiramos hábitos de vida saludable en niños, promoviendo la actividad física, una alimentación sana, la higiene personal y el descanso a través de historias, experiencias de entretenimiento, programas de inversión social y políticas responsables de negocios. 
@@ -102,7 +102,7 @@
             p Para lograr una efectiva formulación de objetivos organizacionales es importante hacerlo con base en la visión de la empresa y a través de un objetivo general que represente el gran paso o salto que se debe dar para llegar hasta donde indica la visión, y un conjunto de objetivos específicos que son los pasos para llegar hasta el objetivo general.
             p Un método para hacer seguimiento a los objetivos organizacionales es, por ejemplo, una escala, la cual puede contener los siguientes ítems: (i) incrementar la productividad de la sucursal del centro, (ii) ofrecer un buen servicio al cliente, (iii) atraer y retener a los colaboradores con mejor desempeño, (iv) llegar al mercado objetivo, (v) mantener los valores fundamentales de la empresa y (vi) tener un crecimiento sostenible.
 
-          .row(titulo="Meta organizacionales:")
+          .row(titulo="Metas organizacionales:")
             p Por último, las metas organizacionales son un complemento del objetivo organizacional, toda vez que configuran la cantidad a lograr y la fecha, el plazo o el horizonte de tiempo en el que se estipula se deben alcanzar.        
 
     .row.my-5
@@ -116,7 +116,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/img5.png", alt="alt")(data-aos="fade-right")
             .col-lg-10
-              p.mt-3 #[i El balance scorecard] es una herramienta que permite organizar las actividades a realizar, exponiendo una estrategia en grupo de métricas de realización. En las organizaciones competitivas es imperioso diseñar un sistema de control de gestión a medida, identificado como un cuadro de mando integral que ha evolucionado para convertirse en un sistema de gestión estratégico.
+              p.mt-3 El #[i balance scorecard] es una herramienta que permite organizar las actividades a realizar, exponiendo una estrategia en grupo de métricas de realización. En las organizaciones competitivas es imperioso diseñar un sistema de control de gestión a medida, identificado como un cuadro de mando integral que ha evolucionado para convertirse en un sistema de gestión estratégico.
 
     .row.justify-content-center.my-5
       .col-lg-8
@@ -149,7 +149,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema1/img9.png', alt="alt")(data-aos="fade-right")  
                 .col-lg-7
-                  p En el balance scorecard convergen todos los componentes del marco estratégico, y el alcance de este comprende las actividades relacionadas con la formulación del plan estratégico de la organización, que involucra a todas las áreas o divisiones al interior de la empresa. Esto define los procesos que contribuyen al logro de las metas establecidas en el plan estratégico. 
+                  p En el #[i balance scorecard] convergen todos los componentes del marco estratégico, y el alcance de este comprende las actividades relacionadas con la formulación del plan estratégico de la organización, que involucra a todas las áreas o divisiones al interior de la empresa. Esto define los procesos que contribuyen al logro de las metas establecidas en el plan estratégico. 
 
           .col-lg-2(data-aos="fade-left")
             figure

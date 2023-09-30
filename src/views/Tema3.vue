@@ -13,7 +13,7 @@
         .bloque-texto-b.color-verde
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p "Se realiza en las empresas, para saber evaluar la situación de la organización, lo cual incluye el análisis dentro y fuera de ella, es decir interno y externo. El éxito de las organizaciones resulta de la ejecución de estrategias adecuadas y así evitar gastar tiempo, recursos en estrategias innecesarias para su sector de mercado.” (Arrieta et al., 2021, p. 1).
+            p Se realiza en las empresas, para saber evaluar la situación de la organización, lo cual incluye el análisis dentro y fuera de ella, es decir interno y externo. El éxito de las organizaciones resulta de la ejecución de estrategias adecuadas y así evitar gastar tiempo, recursos en estrategias innecesarias para su sector de mercado. (Arrieta et al., 2021, p. 1).
             i.fas.fa-quote-right
             
            
@@ -37,7 +37,7 @@
             p La matriz DOFA o FODA es una herramienta clave para hacer una evaluación pormenorizada de la situación actual de una organización o persona sobre la base de sus debilidades y fortalezas, y en las oportunidades y amenazas que ofrece su entorno. Es también una metodología de trabajo que facilita la toma de decisiones. (Sánchez, 2020. p. 10).
 
     .row.my-5
-      p Como se puede apreciar en la imagen, es una herramienta de análisis en la que se tienen en cuenta los aspectos que juegan a favor y en contra de la organización. En el caso de los factores externos, se involucran las amenazas y las oportunidades, y en los factores externos se involucran las fortalezas y debilidades.
+      p Como se puede apreciar en la imagen, es una herramienta de análisis en la que se tienen en cuenta los aspectos que juegan a favor y en contra de la organización. En el caso de los factores externos, se involucran las amenazas y las oportunidades, y en los factores internos se involucran las fortalezas y debilidades.
 
     .row.justify-content-center
       .col-lg-10
@@ -50,10 +50,10 @@
         SlyderA(tipo="b")
           .row
             .col-md-7.mb-4.mb-md-0
-              ol.color-negro
+              ol.color-negro.fa-ul2
                 li 
                   span.text-bold 1. 
-                  | Disponer de los materiales necesarios para la participación del equipo de trabajo (espacio iluminado y silencioso, cartelera con la matriz DOFA en blanco y en tamaño grande que todos puedan verla, post-its de colores, marcadores y lapiceros).
+                  p.mb-0 Disponer de los materiales necesarios para la participación del equipo de trabajo (espacio iluminado y silencioso, cartelera con la matriz DOFA en blanco y en tamaño grande que todos puedan verla, <i>post-its</i> de colores, marcadores y lapiceros).
                 li 
                   span.text-bold 2. 
                   | Reunir al equipo de trabajo con el que se quiere realizar el diagnóstico. En muchas organizaciones esta labor es realizada por el comité directivo, que normalmente está compuesto por la junta directiva, el gerente y los ejecutivos líderes de los diferentes departamentos.
