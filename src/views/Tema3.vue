@@ -291,37 +291,42 @@
               img(src='@/assets/curso/temas/tema3/img12.png', alt="alt")
 
           div(x="23%" y="70%" numero="+")
-            h4 Identificar los factores internos
-            p Identificar los factores internos más importantes que puedan impactar en el éxito de la empresa. Para esto podemos seleccionar las fortalezas y debilidades más importantes identificadas en la DOFA.
+            .tarjeta.color-acento-botones.p-3.taj_alt(x="11.3%" y="70%" numero="").boton1
+             .h5.mb-4 Identificar los factores internos
+              p.mt-2  Identificar los factores internos más importantes que puedan impactar en el éxito de la empresa. Para esto podemos seleccionar las fortalezas y debilidades más importantes identificadas en la DOFA.
 
           div(x="24%" y="34%" numero="+")
-            h4 Asignar valores a cada factor
-            p Asignar valores a cada factor, que vayan entre 0.0 (menor importancia) a 1.0 (más importante). Es relevante que la suma de los valores dé como resultado 1.0 %, lo que significa que se deben asignar los valores, distribuyendo el 1.0 entre las debilidades y fortalezas que se hayan identificado. 
+            .tarjeta.color-acento-botones.p-3.taj_alt(x="11.3%" y="70%" numero="").boton1
+              .h5.mb-4 Asignar valores a cada factor
+              p.mt-2  Asignar valores a cada factor, que vayan entre 0.0 (menor importancia) a 1.0 (más importante). Es relevante que la suma de los valores dé como resultado 1.0 %, lo que significa que se deben asignar los valores, distribuyendo el 1.0 entre las debilidades y fortalezas que se hayan identificado.        
 
           div(x="54%" y="47%" numero="+")
-            h4 Asignar calificaciones
-            p Asignar calificaciones en el apartado ‘Clasificación’ según el factor que represente: 
-            ul.lista-ul.ps-3
-              li
-                i.fas.fa-square
-                | Debilidad mayor (calificación 1).
-              li
-                i.fas.fa-square
-                | Debilidad menor (calificación 2). 
-              li
-                i.fas.fa-square
-                | Fortaleza menor (calificación 3).
-              li
-                i.fas.fa-square
-                | Fortaleza mayor (calificación 4).
+            .tarjeta.color-acento-botones.p-3.taj_alt(x="11.3%" y="70%" numero="").boton1
+              .h5.mb-4 Asignar calificaciones
+              p.mt-2  Asignar calificaciones en el apartado ‘Clasificación’ según el factor que represente: 
+              ul.lista-ul.ps-3
+                li
+                  i.fas.fa-square
+                  | Debilidad mayor (calificación 1).
+                li
+                  i.fas.fa-square
+                  | Debilidad menor (calificación 2). 
+                li
+                  i.fas.fa-square
+                  | Fortaleza menor (calificación 3).
+                li
+                  i.fas.fa-square
+                  | Fortaleza mayor (calificación 4).
 
           div(x="79%" y="7%" numero="+")
-            h4 Los valores y las clasificaciones se multiplican
-            p Los valores y las clasificaciones se multiplican para que, de esta manera, se pueda conocer el resultado ponderado de cada fortaleza y debilidad, que será ubicado en la columna ‘Puntuación’.
+            .tarjeta.color-acento-botones.p-3.taj_alt(x="11.3%" y="70%" numero="").boton1
+              .h5.mb-4 Los valores y las clasificaciones se multiplican
+              p.mt-2  Los valores y las clasificaciones se multiplican para que, de esta manera, se pueda conocer el resultado ponderado de cada fortaleza y debilidad, que será ubicado en la columna ‘Puntuación’.
 
           div(x="78%" y="47%" numero="+")
-            h4 Se suman los valores resultantes
-            p Se suman los valores resultantes de la multiplicación anterior y este es el resultado total de la matriz. Al finalizar de diligenciar la matriz se procede a realizar un análisis, teniendo en cuenta que el valor ponderado promedio es de 2.5 y que los puntajes con valor muy por debajo del promedio caracterizan a las empresas que son débiles internamente, mientras que los puntajes más altos indican una posición interna fuerte  (Pibaque-Pionce #[i et al]., 2020, p. 21).
+            .tarjeta.color-acento-botones.p-3.taj_alt(x="11.3%" y="70%" numero="").boton1
+              .h5.mb-4 Se suman los valores resultantes
+              p.mt-2 Se suman los valores resultantes de la multiplicación anterior y este es el resultado total de la matriz. Al finalizar de diligenciar la matriz se procede a realizar un análisis, teniendo en cuenta que el valor ponderado promedio es de 2.5 y que los puntajes con valor muy por debajo del promedio caracterizan a las empresas que son débiles internamente, mientras que los puntajes más altos indican una posición interna fuerte  (Pibaque-Pionce #[i et al]., 2020, p. 21).
 
 
     .row.mt-5
