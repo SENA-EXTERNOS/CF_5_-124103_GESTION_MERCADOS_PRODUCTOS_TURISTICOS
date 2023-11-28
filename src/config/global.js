@@ -218,7 +218,8 @@ export default {
     {
       referencia:
         'Riverol, Vásquez. M., Parada, Salomón. A. y Rodríguez, Gómez. A. (2019). <i>GUÍA PARA LA ELABORACIÓN DEL ANÁLISIS DE FORTALEZAS, OPORTUNIDADES, DEBILIDADES Y AMENAZAS (FODA)</i>. Contraloría municipal de Puebla.  Art77_fI_GuiaAnalisisFODA_05.09.19.pdf (pueblacapital.gob.mx)',
-      link: '',
+      link:
+        'https://gobiernoabierto.pueblacapital.gob.mx/transparencia_file/contraloria/2019/77.fracc.01/Art77_fI_GuiaAnalisisFODA_05.09.19.pdf',
     },
     {
       referencia:
